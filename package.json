@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/azuma-iris/typeTemp/issues"
   },
-  "homepage": "https://github.com/azuma-iris/typeTemp#readme"
+  "homepage": "https://github.com/azuma-iris/typeTemp#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
