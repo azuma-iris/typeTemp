@@ -1,0 +1,20 @@
+{
+  "name": "typetemp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azuma-iris/typeTemp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azuma-iris/typeTemp/issues"
+  },
+  "homepage": "https://github.com/azuma-iris/typeTemp#readme"
+}
